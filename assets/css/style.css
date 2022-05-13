@@ -1,0 +1,90 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+    
+}
+.card1{
+    margin: 20px 20px;
+    width: 350px;
+    height: 500px;
+    background-color:azure;
+    box-shadow: 0px 0px 7px 0px gray;
+}
+.tittle{
+    font-size: 50px;
+    font-family: 'Lavishly Yours', cursive;
+    transform: rotate(-15deg);
+}
+.t1{
+    margin: 0px 150px;
+}
+.t2{
+    margin: -70px 30px;
+}
+.t3{
+    margin: -90px 120px;
+}
+.card-half{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 13px;
+    width: 300px;
+    margin: 100px 30px;    
+}
+.card-half > h3{
+    margin: 0px 20px ;
+}
+.card-half > h5{
+    letter-spacing: 1.5px;
+    font-size: 8px;
+    margin: 25px 80px;
+}
+.h4-1{
+    font-size: 12px;
+    margin:-15px 50px;
+    letter-spacing: 2px;
+}
+.h4-2{
+    font-size: 12px;
+    margin:15px 100px;
+    letter-spacing: 2px;
+}
+
+.card2{
+    margin: -520px 500px;
+    width: 350px;
+    height: 500px;
+    background-color:white;
+    box-shadow: 0px 0px 7px 0px gray;
+    font-family: 'Open Sans', sans-serif;
+
+}
+.backgroundforicon{
+    width: 170px;
+    height: 170px;
+    background-color:#bc6f51;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 50px;
+    position: absolute;
+    margin: 60px 90px;
+}
+.fa-solid{
+    color: white;
+    font-size: 60px;
+    margin: 50px 50px;
+}
+.card2 > h1{
+    width: 200px;
+    position: absolute;
+    margin:250px 80px ; 
+    text-align: center;
+}
+.card2 > h2{
+    width: 320px;
+    position: absolute;
+    margin:360px 18px ; 
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+}
+
